@@ -1,0 +1,9 @@
+body {
+  background: #ebedf1;
+  font-family: 'Avenir', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+}
